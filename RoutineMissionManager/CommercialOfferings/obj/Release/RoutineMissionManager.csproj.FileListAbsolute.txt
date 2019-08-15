@@ -15,3 +15,17 @@ C:\Users\Flip\Documents\GitHub\RoutineMissionManager\RoutineMissionManager\Comme
 C:\Users\Flip\Documents\GitHub\RoutineMissionManager\RoutineMissionManager\CommercialOfferings\obj\Release\CommercialOfferings.dll
 C:\KSP\ksp-mod64-1.3\KSP_win64\GameData\RoutineMissionManager\CommercialOfferings.dll
 C:\KSP\ksp-mod64-1.3.1\KSP_win64\GameData\RoutineMissionManager\CommercialOfferings.dll
+C:\KSP_DEV\Workspace\RoutineMissionManager\RoutineMissionManager\CommercialOfferings\bin\Release\CommercialOfferings.dll
+C:\KSP_DEV\Workspace\RoutineMissionManager\RoutineMissionManager\CommercialOfferings\bin\Release\Assembly-CSharp-firstpass.dll
+C:\KSP_DEV\Workspace\RoutineMissionManager\RoutineMissionManager\CommercialOfferings\bin\Release\Assembly-CSharp.dll
+C:\KSP_DEV\Workspace\RoutineMissionManager\RoutineMissionManager\CommercialOfferings\bin\Release\UnityEngine.dll
+C:\KSP_DEV\Workspace\RoutineMissionManager\RoutineMissionManager\CommercialOfferings\bin\Release\UnityEngine.UI.dll
+C:\KSP_DEV\Workspace\RoutineMissionManager\RoutineMissionManager\CommercialOfferings\bin\Release\KSPTrackIR.dll
+C:\KSP_DEV\Workspace\RoutineMissionManager\RoutineMissionManager\CommercialOfferings\bin\Release\KSPAssets.dll
+C:\KSP_DEV\Workspace\RoutineMissionManager\RoutineMissionManager\CommercialOfferings\bin\Release\Mono.Cecil.dll
+C:\KSP_DEV\Workspace\RoutineMissionManager\RoutineMissionManager\CommercialOfferings\bin\Release\Ionic.Zip.dll
+C:\KSP_DEV\Workspace\RoutineMissionManager\RoutineMissionManager\CommercialOfferings\bin\Release\TDx.TDxInput.dll
+C:\KSP_DEV\Workspace\RoutineMissionManager\RoutineMissionManager\CommercialOfferings\obj\Release\RoutineMissionManager.csprojAssemblyReference.cache
+C:\KSP_DEV\Workspace\RoutineMissionManager\RoutineMissionManager\CommercialOfferings\obj\Release\RoutineMissionManager.csproj.CoreCompileInputs.cache
+C:\KSP_DEV\Workspace\RoutineMissionManager\RoutineMissionManager\CommercialOfferings\obj\Release\RoutineMissionManager.csproj.CopyComplete
+C:\KSP_DEV\Workspace\RoutineMissionManager\RoutineMissionManager\CommercialOfferings\obj\Release\CommercialOfferings.dll
