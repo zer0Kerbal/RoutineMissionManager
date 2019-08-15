@@ -1,7 +1,7 @@
 # RoutineMissionManager
 ### Proudly Adopts(HOPEFULLY) - for private/personal use  
 
-cooperative efforts of 4x4cheesecake, LinuxGuruGamer, and zer0Kerbal to continue original *RoutineMissionManager (RMM)* by `**PrivateFlip**'  
+cooperative efforts of the community and zer0Kerbal to continue original *RoutineMissionManager (RMM)* by `**PrivateFlip**'  
 
 ## RMM  
 ### ***Routine Mission Manager Returned (RMMr)***  
